@@ -150,7 +150,6 @@ public class TicTacToe {
             else
                 System.out.println(userInput + " is not a valid move.");
         }
-
         // placing values in the board
         placeMove(board, userInput, 'X');
     }
